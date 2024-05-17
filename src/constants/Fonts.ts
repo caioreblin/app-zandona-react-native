@@ -1,5 +1,3 @@
-//styles global to the app
-//fazer um StyleSheet global para o app?
 const Fonts = {
   Weight: {
     thin: "100",
